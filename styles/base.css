@@ -1,0 +1,37 @@
+body {
+    width: 960px;
+    margin: auto;
+    padding: 0;
+}
+
+section {
+    background-color: lightgrey;
+}
+
+div {
+    background-color: blue; 
+
+}
+
+h1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+@media (max-width: 767px) {
+    body {
+        background-color: grey;
+        width: 480px;
+        margin: auto;
+    }
+
+    section {
+        background-color: white;
+    }
+
+    div {
+        background-color: darkgreen;
+    }
+
+}
