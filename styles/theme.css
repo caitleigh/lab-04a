@@ -1,0 +1,44 @@
+/* Mobile */
+@media (min-width: 480px){
+    main {
+
+    }
+    
+    .a {
+
+        background-color: lightblue;
+    }
+    
+    .b {
+        background-color: lightcoral;
+    }
+    
+    .c{
+        background-color: lightseagreen;
+    }
+    
+    .d {
+        background-color: lightgrey;
+    }
+    .e{
+        background-color: lightskyblue;
+    }
+
+    .f {
+        background-color: lightpink;
+    }
+
+    .g {
+        background-color: lightsalmon;
+    }
+
+    .h {
+        background-color: lightgreen;
+    }
+    
+    .j {
+        background-color: lightyellow;
+
+    }
+    
+    }
