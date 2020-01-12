@@ -1,0 +1,122 @@
+/* Mobile */
+    .a {
+
+        background-color: lightblue;
+    }
+    
+    .b {
+        background-color: lightcoral;
+    }
+    
+    .c{
+        background-color: lightseagreen;
+    }
+    
+    .d {
+        background-color: lightgrey;
+    }
+    .e{
+        background-color: lightskyblue;
+    }
+
+    .f {
+        background-color: lightpink;
+    }
+
+    .g {
+        background-color: lightsalmon;
+    }
+
+    .h {
+        background-color: lightgreen;
+    }
+    
+    .j {
+        background-color: lightyellow;
+
+    }
+    
+
+    /* Tablet */
+
+    @media (min-width: 768px) {
+
+    .a {
+
+        background-color: rgb(66, 190, 232);
+    }
+    
+    .b {
+        background-color: rgb(213, 84, 84);
+    }
+    
+    .c{
+        background-color: rgb(28, 135, 130);
+    }
+    
+    .d {
+        background-color: rgb(152, 152, 152);
+    }
+    .e{
+        background-color: rgb(97, 146, 176);
+    }
+
+    .f {
+        background-color: rgb(201, 138, 147);
+    }
+
+    .g {
+        background-color: rgb(211, 127, 94);
+    }
+
+    .h {
+        background-color: rgb(100, 193, 100);
+    }
+    
+    .j {
+        background-color: rgb(225, 225, 127);
+
+    }
+}
+
+
+/* Desktop */
+@media (min-width: 1100px) {
+
+    .a {
+
+        background-color: rgb(40, 149, 186);
+    }
+    
+    .b {
+        background-color: rgb(167, 58, 58);
+    }
+    
+    .c{
+        background-color: rgb(15, 99, 95);
+    }
+    
+    .d {
+        background-color: rgb(113, 107, 107);
+    }
+    .e{
+        background-color: rgb(65, 109, 136);
+    }
+
+    .f {
+        background-color: rgb(156, 100, 109);
+    }
+
+    .g {
+        background-color: rgb(174, 99, 69);
+    }
+
+    .h {
+        background-color: rgb(64, 153, 64);
+    }
+    
+    .j {
+        background-color: rgb(221, 221, 69);
+
+    }
+}
